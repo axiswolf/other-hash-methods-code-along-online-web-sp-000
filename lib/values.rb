@@ -10,6 +10,5 @@ require 'pry'
 
 def get_the_values(groceries)
   #code your solution here!
-  value = groceries.values
-  value.join
+  groceries.values
 end
